@@ -1,0 +1,30 @@
+{"q": "What is the deductible for comprehensive coverage?", "section": "Comprehensive", "answer_contains": "$500", "type": "keyword"}
+{"q": "How much do I pay out of pocket if a deer damages my car?", "section": "Comprehensive", "answer_contains": "$500", "type": "paraphrase"}
+{"q": "What is the collision deductible?", "section": "Collision or Upset", "answer_contains": "$1,000", "type": "keyword"}
+{"q": "If I back into a pole, which coverage pays and what do I pay first?", "section": "Collision or Upset", "answer_contains": "$1,000", "type": "paraphrase"}
+{"q": "What is the deductible for a cracked windshield?", "section": "Comprehensive", "answer_contains": "$250", "type": "keyword"}
+{"q": "What is the standard third-party liability limit?", "section": "Third-Party Liability", "answer_contains": "$1,000,000", "type": "keyword"}
+{"q": "Am I covered if I hurt someone else in a crash and they sue me?", "section": "Third-Party Liability", "answer_contains": "legal costs", "type": "paraphrase"}
+{"q": "Do I pay a deductible when the other driver is completely at fault?", "section": "Direct Compensation - Property Damage (DCPD)", "answer_contains": "no deductible", "type": "paraphrase"}
+{"q": "How much does the rental car endorsement pay per day?", "section": "Optional Coverage: Rental Vehicle (OPCF 20)", "answer_contains": "$70", "type": "keyword"}
+{"q": "Can I get a loaner car paid for while mine is in the shop?", "section": "Optional Coverage: Rental Vehicle (OPCF 20)", "answer_contains": "$70", "type": "paraphrase"}
+{"q": "What does waiver of depreciation do?", "section": "Optional Coverage: Waiver of Depreciation (OPCF 43)", "answer_contains": "purchase price", "type": "keyword"}
+{"q": "Am I covered while driving for Uber?", "section": "General Exclusions", "answer_contains": "OPCF 49", "type": "keyword"}
+{"q": "Does my policy pay if my engine just breaks down from age?", "section": "Wear and Tear", "answer_contains": "not covered", "type": "paraphrase"}
+{"q": "What happens to my own damage coverage if I drive drunk?", "section": "Intoxication", "answer_contains": "void", "type": "paraphrase"}
+{"q": "Is my car covered on a road trip to Mexico?", "section": "Driving Outside Canada", "answer_contains": "Mexico", "type": "keyword"}
+{"q": "How soon must I report an accident?", "section": "Reporting a Loss", "answer_contains": "7 days", "type": "keyword"}
+{"q": "When do I need to call the police after a fender bender?", "section": "Reporting a Loss", "answer_contains": "$2,000", "type": "paraphrase"}
+{"q": "What is the deadline to submit a Proof of Loss form?", "section": "Proof of Loss", "answer_contains": "90 days", "type": "keyword"}
+{"q": "My car was stolen. How long until I get paid?", "section": "Proof of Loss", "answer_contains": "30 days", "type": "paraphrase"}
+{"q": "What can I do if I disagree with the settlement amount?", "section": "Disputes and Appraisal", "answer_contains": "appraisal", "type": "paraphrase"}
+{"q": "Does an SIU referral mean my claim is denied?", "section": "Fraud Investigations", "answer_contains": "does not mean", "type": "keyword"}
+{"q": "What is the maximum weekly income replacement benefit?", "section": "Income Replacement", "answer_contains": "$400", "type": "keyword"}
+{"q": "How much is covered for whiplash treatment?", "section": "Medical, Rehabilitation and Attendant Care", "answer_contains": "$3,500", "type": "paraphrase"}
+{"q": "What is the funeral expense limit?", "section": "Death and Funeral Benefits", "answer_contains": "$6,000", "type": "keyword"}
+{"q": "How much extra does paying monthly cost?", "section": "Paying Your Premium", "answer_contains": "3%", "type": "paraphrase"}
+{"q": "Is there a discount for winter tires?", "section": "Discounts", "answer_contains": "5%", "type": "keyword"}
+{"q": "Will my rates go up if someone rear-ends me?", "section": "Will a Claim Increase My Premium?", "answer_contains": "not", "type": "paraphrase"}
+{"q": "What is the refund if I cancel my policy early?", "section": "Cancelling Your Policy", "answer_contains": "short-rate", "type": "keyword"}
+{"q": "Does this policy cover my house against flooding?", "section": null, "answer_contains": null, "type": "out_of_scope"}
+{"q": "What is the best pizza place in Toronto?", "section": null, "answer_contains": null, "type": "out_of_scope"}
