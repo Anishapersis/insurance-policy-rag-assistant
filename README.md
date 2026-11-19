@@ -96,3 +96,7 @@ The policy documents are **fictional sample wording written for this demo** ("No
 - Add a cross-encoder re-ranker and LLM-as-judge faithfulness scoring on the same question set.
 - Query rewriting for paraphrases (e.g. "rear-ended" → "not at fault").
 - Track evaluation in CI so retrieval regressions fail the build.
+
+## Author
+
+**Anisha Persis Christopher**, Data Scientist · [LinkedIn](https://www.linkedin.com/in/anishapersis) · [GitHub](https://github.com/Anishapersis)
